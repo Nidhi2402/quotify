@@ -23,6 +23,8 @@ This project also demonstrates:
 * [FavQs] API integration
 * [Firebase] integration
 
+## See Demo: https://qoutify-heroku-node.herokuapp.com/
+
 ## Overview
 
 At a high level, Quotlify is a Single Page Application (SPA) built using notable libraries like React, React Router, and Redux. The application gets quote data from a third party API ([FavQs]). It allows one to add/remove a quote as a favorite to/from a database ([Firebase]). All API and database interaction is managed through domain services. The following diagram illustrates the general design of the application.
