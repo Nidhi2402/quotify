@@ -9,7 +9,6 @@ Features:
 * Save quotes as favorites
 * Remove favorite quotes
 
-Go **[here](http://react-redux-quotlify.drminnaar.me/)** for live demo.
 
 This project also demonstrates:
 
@@ -135,22 +134,22 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'react-redux-quotlify'_ repository from GitHub
+* Clone _'quotify'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/drminnaar/react-redux-quotlify.git
+  git clone https://github.com/Nidhi2402/quotify.git
   ```
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:drminnaar/react-redux-quotlify.git
+  git clone git@github.com:Nidhi2402/quotify.git
   ```
 
 * Install node modules
 
    ```bash
-   cd react-redux-quotlify
+   quotify
    npm install
    ```
 
@@ -243,21 +242,3 @@ Follow the following steps to get development environment running.
   ```bash
   npm run serve
   ```
-
----
-
-## Versioning
-
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/drminnaar/react-redux-quotlify/tags).
-
-## Authors
-
-* **Douglas Minnaar** - *Initial work* - [drminnaar](https://github.com/drminnaar)
-
-[Redux-Promise-Middleware]: https://github.com/pburtchaell/redux-promise-middleware
-[Redux-Thunk]: https://github.com/gaearon/redux-thunk
-[React Router]: https://reacttraining.com/react-router/
-[FavQs]: https://favqs.com/api
-[Firebase]: https://firebase.google.com/
-[Redux]: https://redux.js.org/
-[Surge]: https://surge.sh/
