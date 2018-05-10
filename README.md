@@ -78,17 +78,7 @@ Displays a list of favorite quotes . Each quote is displayed in a _card_ with a 
 
 ## Screenshots
 
-![quotlify-screenshot-1](https://user-images.githubusercontent.com/33935506/35666235-e25aa2f8-0731-11e8-9d0c-8184ac9e49d5.png)
-
----
-
 ![quotlify-screenshot-2](https://user-images.githubusercontent.com/33935506/35666236-e520ef2e-0731-11e8-9107-6503274ba2d5.png)
-
----
-
-![quotlify-screenshot-3](https://user-images.githubusercontent.com/33935506/35666239-e7aaead8-0731-11e8-8342-2534ea9a3c60.png)
-
----
 
 ## Developed With
 
