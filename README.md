@@ -9,20 +9,6 @@ Features:
 * Save quotes as favorites
 * Remove favorite quotes
 
-
-This project also demonstrates:
-
-* A typical React project layout structure
-* Babel setup and configuration
-* Webpack setup and configuration
-  * dotenv setup included
-* Eslint setup and configuration
-* SCSS setup and configuration
-* Configuring and using Redux to manage application state
-* Configuring React Router and setting up pages and navigation
-* [FavQs] API integration
-* [Firebase] integration
-
 ## See Demo: https://qoutify-heroku-node.herokuapp.com/
 
 ## Overview
@@ -81,28 +67,6 @@ Displays a list of favorite quotes . Each quote is displayed in a _card_ with a 
 ## Screenshots
 
 ![quotlify-screenshot-2](https://user-images.githubusercontent.com/33935506/35666236-e520ef2e-0731-11e8-9107-6503274ba2d5.png)
-
-## Developed With
-
-* [Visual Studio Code](https://code.visualstudio.com/) - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
-* [Node.js](https://nodejs.org/en/) - Javascript runtime
-* [React](https://reactjs.org/) - A javascript library for building user interfaces
-* [React Router] - Declarative routing for React
-* [Redux] - Redux is a predictable state container for JavaScript apps.
-* [Redux-Promise-Middleware] - Redux middleware for promises, async functions and conditional optimistic updates
-* [Redux-Thunk] - Thunk middleware for Redux
-* [Babel](https://babeljs.io/) - A transpiler for javascript
-* [Webpack](https://webpack.js.org/) - A module bundler
-* [SCSS](http://sass-lang.com/) - A css metalanguage
-* [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
-* [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-* [FavQs] Api - Provides quote data
-* [Firebase] - Provides database as a service
-* [Surge] - Static web publishing for Front-End Developers
-
-It should be noted that I have used [Redux-Promise-Middleware] and [Redux-Thunk] libraries as middleware to handle asynchronous operations like fetching and persisting data. The reason why I am using both is due to performing chained asynchronous operations. If you don't require chaining, then I recommend only using [Redux-Promise-Middleware]. I have chosen not to use [Redux Saga](https://github.com/redux-saga/redux-saga) because I consider it "next level". However I do believe that once you [grok](https://www.merriam-webster.com/dictionary/grok) it, then it actually simplifies things a lot. It will make for a good followup project.
-
----
 
 ## Getting Started
 
